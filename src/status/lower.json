@@ -4,6 +4,7 @@
     "seeds": [
       {
         "id": 1,
+        "winner_name": "",
         "teams": [
           {
             "name": "Pac"
@@ -15,6 +16,7 @@
       },
       {
         "id": 2,
+        "winner_name": "",
         "teams": [
           {
             "name": "Bagi"
@@ -26,6 +28,7 @@
       },
       {
         "id": 3,
+        "winner_name": "",
         "teams": [
           {
             "name": "Etoiles"
@@ -39,6 +42,7 @@
   },
   {
     "title": "Round 2",
+    "winner_name": "",
     "seeds": [
       {
         "id": 1,
@@ -53,6 +57,7 @@
       },
       {
         "id": 2,
+        "winner_name": "",
         "teams": [
           {
             "name": "Cellbit"
@@ -66,6 +71,7 @@
   },
   {
     "title": "Lower Bracket Final",
+    "winner_name": "",
     "seeds": [
       {
         "id": 1,
