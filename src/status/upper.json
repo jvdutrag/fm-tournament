@@ -185,13 +185,16 @@
     ]
   },
   {
-    "title": "Upper Bracket Winner",
+    "title": "Grand Final",
     "seeds": [
       {
         "id": 1,
         "teams": [
           {
             "name": "Foolish"
+          },
+          {
+            "name": "TBD"
           }
         ]
       }
