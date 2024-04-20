@@ -4,7 +4,7 @@
     "seeds": [
       {
         "id": 1,
-        "winner_name": "",
+        "winner_name": "Pac",
         "teams": [
           {
             "name": "RubberRoss"
@@ -16,7 +16,7 @@
       },
       {
         "id": 2,
-        "winner_name": "",
+        "winner_name": "Sykkuno",
         "teams": [
           {
             "name": "Sykkuno"
@@ -28,7 +28,7 @@
       },
       {
         "id": 3,
-        "winner_name": "",
+        "winner_name": "Molly",
         "teams": [
           {
             "name": "Ellum"
@@ -40,7 +40,7 @@
       },
       {
         "id": 4,
-        "winner_name": "",
+        "winner_name": "Tina",
         "teams": [
           {
             "name": "Matt"
@@ -52,7 +52,7 @@
       },
       {
         "id": 5,
-        "winner_name": "",
+        "winner_name": "Bagi",
         "teams": [
           {
             "name": "Cellbit"
@@ -64,7 +64,7 @@
       },
       {
         "id": 6,
-        "winner_name": "",
+        "winner_name": "Philza",
         "teams": [
           {
             "name": "Philza"
@@ -76,7 +76,7 @@
       },
       {
         "id": 7,
-        "winner_name": "",
+        "winner_name": "Guaxi",
         "teams": [
           {
             "name": "Guaxi"
@@ -88,7 +88,7 @@
       },
       {
         "id": 8,
-        "winner_name": "",
+        "winner_name": "Foolish",
         "teams": [
           {
             "name": "Foolish"
@@ -105,7 +105,7 @@
     "seeds": [
       {
         "id": 1,
-        "winner_name": "",
+        "winner_name": "Pac",
         "teams": [
           {
             "name": "Pac"
@@ -117,7 +117,7 @@
       },
       {
         "id": 2,
-        "winner_name": "",
+        "winner_name": "Tina",
         "teams": [
           {
             "name": "Molly"
@@ -129,7 +129,7 @@
       },
       {
         "id": 3,
-        "winner_name": "",
+        "winner_name": "Bagi",
         "teams": [
           {
             "name": "Bagi"
@@ -141,7 +141,7 @@
       },
       {
         "id": 4,
-        "winner_name": "",
+        "winner_name": "Foolish",
         "teams": [
           {
             "name": "Guaxi"
@@ -158,7 +158,7 @@
     "seeds": [
       {
         "id": 1,
-        "winner_name": "",
+        "winner_name": "Tina",
         "teams": [
           {
             "name": "Pac"
@@ -170,7 +170,7 @@
       },
       {
         "id": 2,
-        "winner_name": "",
+        "winner_name": "Foolish",
         "teams": [
           {
             "name": "Bagi"
@@ -187,7 +187,7 @@
     "seeds": [
       {
         "id": 1,
-        "winner_name": "",
+        "winner_name": "Foolish",
         "teams": [
           {
             "name": "Foolish"

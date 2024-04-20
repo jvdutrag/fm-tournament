@@ -38,7 +38,7 @@ export default function App() {
       </div>
       <div>
         <h1>Lower Bracket</h1>
-        <Bracket rounds={lower} />
+        <Bracket rounds={lower} renderSeedComponent={CustomSeed} />
       </div>
     </div>
   );

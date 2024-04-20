@@ -4,7 +4,7 @@
     "seeds": [
       {
         "id": 1,
-        "winner_name": "",
+        "winner_name": "Tubbo",
         "teams": [
           {
             "name": "Pac"
@@ -16,7 +16,7 @@
       },
       {
         "id": 2,
-        "winner_name": "",
+        "winner_name": "Bagi",
         "teams": [
           {
             "name": "Bagi"
@@ -28,13 +28,25 @@
       },
       {
         "id": 3,
-        "winner_name": "",
+        "winner_name": "Cellbit",
         "teams": [
           {
             "name": "Etoiles"
           },
           {
             "name": "Cellbit"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "winner_name": "Tina",
+        "teams": [
+          {
+            "name": "Tina"
+          },
+          {
+            "name": "Him. 🕴️"
           }
         ]
       }
@@ -46,6 +58,7 @@
     "seeds": [
       {
         "id": 1,
+        "winner_name": "Bagi",
         "teams": [
           {
             "name": "Bagi"
@@ -57,7 +70,7 @@
       },
       {
         "id": 2,
-        "winner_name": "",
+        "winner_name": "Cellbit",
         "teams": [
           {
             "name": "Cellbit"
@@ -75,6 +88,7 @@
     "seeds": [
       {
         "id": 1,
+        "winner_name": "Cellbit",
         "teams": [
           {
             "name": "Cellbit"
