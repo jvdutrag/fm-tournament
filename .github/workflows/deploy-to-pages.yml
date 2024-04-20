@@ -19,7 +19,6 @@ jobs:
       - name: Archive production artifacts
         uses: actions/upload-artifact@v2
         with:
-          name: page
           path: dist/**
 
   deploy:
@@ -31,13 +30,5 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v4
 
-      - name: Download Artifact
-        uses: actions/download-artifact@v2
-        with:
-          name: page
-          path: dist
-
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
-        with:
-          artifact_name: page
