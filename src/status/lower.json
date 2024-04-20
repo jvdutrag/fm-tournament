@@ -6,7 +6,7 @@
         "id": 1,
         "teams": [
           {
-            "name": "RubberRoss"
+            "name": "Pac"
           },
           {
             "name": "Tubbo"
@@ -17,10 +17,10 @@
         "id": 2,
         "teams": [
           {
-            "name": "Matt"
+            "name": "Bagi"
           },
           {
-            "name": "Ellum"
+            "name": "Guaxi"
           }
         ]
       },
@@ -28,21 +28,10 @@
         "id": 3,
         "teams": [
           {
-            "name": "Cellbit"
-          },
-          {
-            "name": "PirateSoftware"
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "teams": [
-          {
             "name": "Etoiles"
           },
           {
-            "name": "Guto"
+            "name": "Cellbit"
           }
         ]
       }
@@ -55,10 +44,10 @@
         "id": 1,
         "teams": [
           {
-            "name": "Sykkuno"
+            "name": "TBD"
           },
           {
-            "name": "Tubbo"
+            "name": "TBD"
           }
         ]
       },
@@ -66,10 +55,10 @@
         "id": 2,
         "teams": [
           {
-            "name": "Molly"
+            "name": "TBD"
           },
           {
-            "name": "Cellbit"
+            "name": "TBD"
           }
         ]
       }
