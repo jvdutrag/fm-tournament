@@ -43,4 +43,4 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
         with:
-          token: ${{ secrets.DEPLOY_KEY }}
+          artifact_name: page
