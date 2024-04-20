@@ -1,0 +1,187 @@
+[
+  {
+    "title": "Round 1",
+    "seeds": [
+      {
+        "id": 1,
+        "teams": [
+          {
+            "name": "RubberRoss"
+          },
+          {
+            "name": "Pac"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "teams": [
+          {
+            "name": "Sykkuno"
+          },
+          {
+            "name": "Tubbo"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "teams": [
+          {
+            "name": "Ellum"
+          },
+          {
+            "name": "Molly"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "teams": [
+          {
+            "name": "Matt"
+          },
+          {
+            "name": "Tina"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "teams": [
+          {
+            "name": "Cellbit"
+          },
+          {
+            "name": "Bagi"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "teams": [
+          {
+            "name": "Philza"
+          },
+          {
+            "name": "PirateSoftware"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "teams": [
+          {
+            "name": "Guaxi"
+          },
+          {
+            "name": "Etoiles"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "teams": [
+          {
+            "name": "Foolish"
+          },
+          {
+            "name": "Guto"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Round 2",
+    "seeds": [
+      {
+        "id": 1,
+        "teams": [
+          {
+            "name": "Pac"
+          },
+          {
+            "name": "Sykkuno"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "teams": [
+          {
+            "name": "Molly"
+          },
+          {
+            "name": "Tina"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "teams": [
+          {
+            "name": "Bagi"
+          },
+          {
+            "name": "Philza"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "teams": [
+          {
+            "name": "Guaxi"
+          },
+          {
+            "name": "Foolish"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Round 3",
+    "seeds": [
+      {
+        "id": 1,
+        "teams": [
+          {
+            "name": "TBD"
+          },
+          {
+            "name": "TBD"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "teams": [
+          {
+            "name": "TBD"
+          },
+          {
+            "name": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Upper Bracket Final",
+    "seeds": [
+      {
+        "id": 1,
+        "teams": [
+          {
+            "name": "TBD"
+          },
+          {
+            "name": "TBD"
+          }
+        ]
+      }
+    ]
+  }
+]

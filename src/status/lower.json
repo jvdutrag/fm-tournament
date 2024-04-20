@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Round 1",
+    "seeds": [
+      {
+        "id": 1,
+        "teams": [
+          {
+            "name": "RubberRoss"
+          },
+          {
+            "name": "Tubbo"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "teams": [
+          {
+            "name": "Matt"
+          },
+          {
+            "name": "Ellum"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "teams": [
+          {
+            "name": "Cellbit"
+          },
+          {
+            "name": "PirateSoftware"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "teams": [
+          {
+            "name": "Etoiles"
+          },
+          {
+            "name": "Guto"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Round 2",
+    "seeds": [
+      {
+        "id": 1,
+        "teams": [
+          {
+            "name": "TBD"
+          },
+          {
+            "name": "TBD"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "teams": [
+          {
+            "name": "TBD"
+          },
+          {
+            "name": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lower Bracket Final",
+    "seeds": [
+      {
+        "id": 1,
+        "teams": [
+          {
+            "name": "TBD"
+          },
+          {
+            "name": "TBD"
+          }
+        ]
+      }
+    ]
+  }
+]
