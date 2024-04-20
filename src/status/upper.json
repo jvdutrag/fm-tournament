@@ -183,5 +183,18 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Upper Bracket Winner",
+    "seeds": [
+      {
+        "id": 1,
+        "teams": [
+          {
+            "name": "Foolish"
+          }
+        ]
+      }
+    ]
   }
 ]
