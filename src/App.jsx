@@ -14,6 +14,9 @@ export default function App() {
       <h1 style={{ textAlign: "center" }}>
         CELLBIT'S FIRST FRUIT MOUNTAIN TOURNAMENT
       </h1>
+      <h2 style={{ textAlign: "center" }}>
+        GRAND FINAL
+      </h2>
       <div>
         <Bracket rounds={final} />
       </div>
@@ -23,6 +26,9 @@ export default function App() {
       <h1 style={{ textAlign: "center" }}>
         CELLBIT'S FIRST FRUIT MOUNTAIN TOURNAMENT
       </h1>
+      <h2 style={{ textAlign: "center" }}>
+        Current Round: {config.currentRound}
+      </h2>
       <div>
         <h1>Upper Bracket</h1>
         <Bracket rounds={upper} />
