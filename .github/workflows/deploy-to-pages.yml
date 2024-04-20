@@ -18,10 +18,10 @@ jobs:
           npm ci
           npm run build
       - name: Archive production artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-pages-artifact@v1
         with:
           name: github-pages
-          path: dist/**
+          path: dist
       - name: Configure Pages
         uses: actions/configure-pages@v4
       - name: Deploy to GitHub Pages
